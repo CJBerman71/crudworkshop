@@ -1,5 +1,4 @@
 <?php
-
 $db = array ( 
     'host' => 'localhost', 
     'dbname' => 'test', 
